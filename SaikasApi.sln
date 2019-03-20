@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaikasApi", "SaikasApi\SaikasApi.csproj", "{39C8BD50-0E24-4564-8C23-D999937A3BF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C8BD50-0E24-4564-8C23-D999937A3BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C8BD50-0E24-4564-8C23-D999937A3BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C8BD50-0E24-4564-8C23-D999937A3BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C8BD50-0E24-4564-8C23-D999937A3BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF67A33-EDDA-4161-A63A-D0E7C168430E}
+	EndGlobalSection
+EndGlobal
